@@ -18,3 +18,5 @@ Objective is to transform raw transactional data into a interactive & insightifu
 1. Utilizing various Power BI visuals (bar charts, line charts, maps, tables, slicers, cards).
 2. Implementing drill-through functionality, bookmarks, and other interactive elements.
 3. Creating multiple pages for different levels of analysis (Executive Dashboard, Product Analysis, Customer Analysis, Geographic Analysis).
+
+(Please select .pdf document to view the file online)
